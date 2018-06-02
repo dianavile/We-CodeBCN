@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header-like {
+    background-color: blue;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-family: sans-serif;
+    margin: 20px;
+}
+
+.p-blue, 
+h2,
+.h3,
+p,
+img,
+footer {
+    color: blue;
+    text-align: center;
+}
+
+.title-tech {
+
+}
