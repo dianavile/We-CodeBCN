@@ -168,3 +168,23 @@ button {
  margin: 12px;
 }
 ```
+
+JavaScript DATA
+- String (" ")
+- Numbers
+- Boolean (false, true)
+
+```
+If(luisAge > 18){
+ console.log('ya puedes conducir crack');
+ } else {
+ console.log('TE TOCA BICI')
+ }
+ TE TOCA BICI
+```
+```
+while(luisAge < 18) {
+  console.log('pronto podras conducir');
+  luisAge = luisAge +1;
+ }
+ ```
