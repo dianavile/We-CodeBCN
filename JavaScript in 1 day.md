@@ -191,8 +191,23 @@ while(luisAge < 18) {
  }
  ```
 FUNCION
+give instructions
+add data
+
 ```
 function pasarTiempo(){
 //do something (instructiones)
 }
 ```
+```
+function pasarTiempo(){
+while(luisAge < 18) {
+  console.log('pronto podras conducir');
+  luisAge = luisAge +1;  
+ }
+ }
+```
+
+  ##JavaScript TOOLS
+  - [MDN](https://developer.mozilla.org/en-US/)
+  - [W3school](https://www.w3schools.com/)
