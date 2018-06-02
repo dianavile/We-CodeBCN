@@ -193,6 +193,6 @@ while(luisAge < 18) {
 FUNCION
 ```
 function pasarTiempo(){
-//do something
+//do something (instructiones)
 }
 ```
