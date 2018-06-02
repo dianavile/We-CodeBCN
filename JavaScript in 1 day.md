@@ -11,6 +11,7 @@ __NOTE__: Both HTML and CSS are not a programmming language.
 
 A webpage consist of a BOX model. 
 Everything you see on a website consists of boxes.
+Open web Dev (F12)
 
 
 [Place holder](https://placeimg.com/)
