@@ -20,5 +20,4 @@ Learn JavaScript in 1 day
 - Great programmer knows how to code, communicate, and has its own expertise
 - Never stop learning, keep practicing next languages
 - Be absolutely passionate about coding
-
-
+- __MVP__ (Minimal Viable Product)
