@@ -1,4 +1,4 @@
-#JavaScript in 1 dia
+# JavaScript in 1 dia
 
 ## [Visual Studio Code](https://code.visualstudio.com/)
 Use a code editor
@@ -9,19 +9,16 @@ Webpage
 - __JavaScript__: Interaction of page (buttons)
 __NOTE__: Both HTML and CSS are not a programmming language.
 
-A webpage consist of a BOX model. 
-Everything you see on a website consists of boxes.
-Open web Dev (F12)
+- A webpage consist of a BOX model. 
+- Everything you see on a website consists of boxes.
+- Open web Dev (F12) 
 
-[Place holder](https://placeimg.com/)
+- __Content__: the content
+- __Padding__: limit between content and border
+- __Border__: the border
+- __Margen__: difference between the border and space outside
 
-- Content: the content
-- Padding: limit between content and border
-- Border: the border
-- Margen: difference between the border and space outside
-
-WE/CODE
-HTML Exemplo
+#### WE/CODE- HTML Exemplo
 Index.html
 ```
 <!DOCTYPE html>
@@ -69,7 +66,7 @@ Index.html
 </html>
 ```
 
-Styles.css
+## Styles.css
 ```
 //Esto primero es el css reset
 * {
@@ -168,13 +165,12 @@ button {
  margin: 12px;
 }
 ```
-
-JavaScript DATA
+### JavaScript DATA
 - String (" ")
 - Numbers
 - Boolean (false, true)
 
-IF-ELSE (CONDICION)
+#### IF-ELSE (CONDICION)
 ```
 If(luisAge > 18){
  console.log('ya puedes conducir crack');
@@ -183,14 +179,14 @@ If(luisAge > 18){
  }
  TE TOCA BICI
 ```
-WHILE (CONDICION)
+#### WHILE (CONDICION)
 ```
 while(luisAge < 18) {
   console.log('pronto podras conducir');
   luisAge = luisAge +1;
  }
  ```
-FUNCION
+#### FUNCION
 give instructions
 add data
 
@@ -208,6 +204,7 @@ while(luisAge < 18) {
  }
 ```
 
-  ##JavaScript TOOLS
+  ## JavaScript TOOLS
   - [MDN](https://developer.mozilla.org/en-US/)
   - [W3school](https://www.w3schools.com/)
+  - [Place holder pics](https://placeimg.com/)
