@@ -13,5 +13,10 @@ A webpage consist of a BOX model.
 Everything you see on a website consists of boxes.
 Open web Dev (F12)
 
-
 [Place holder](https://placeimg.com/)
+
+
+Content: the content
+Padding: limit between content and border
+Border: the border
+Margen: difference between the border and space outside
