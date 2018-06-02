@@ -15,4 +15,5 @@ Learn JavaScript in 1 day
 - Search for a project and do it. No excuses.
 - Ask at [Stackoverflow](https://www.stackoverflow.com)
 - Learn to ask for help
+- Start with Testing
 
