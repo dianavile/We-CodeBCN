@@ -174,6 +174,7 @@ JavaScript DATA
 - Numbers
 - Boolean (false, true)
 
+IF-ELSE (CONDICION)
 ```
 If(luisAge > 18){
  console.log('ya puedes conducir crack');
@@ -182,9 +183,16 @@ If(luisAge > 18){
  }
  TE TOCA BICI
 ```
+WHILE (CONDICION)
 ```
 while(luisAge < 18) {
   console.log('pronto podras conducir');
   luisAge = luisAge +1;
  }
  ```
+FUNCION
+```
+function pasarTiempo(){
+//do something
+}
+```
