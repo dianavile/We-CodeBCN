@@ -21,3 +21,4 @@ Learn JavaScript in 1 day
 - Never stop learning, keep practicing next languages
 - Be absolutely passionate about coding
 - __MVP__ (Minimal Viable Product)
+
