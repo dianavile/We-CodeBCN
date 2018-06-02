@@ -8,3 +8,6 @@ Webpage
 - __CSS__: Cascading Style Sheets (graphic design: layout & position of elements)
 - __JavaScript__: Interaction of page (buttons)
 __NOTE__: Both HTML and CSS are not a programmming language.
+
+A webpage consist of a BOX model. 
+Everything you see on a website consists of boxes.
