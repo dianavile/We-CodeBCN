@@ -7,4 +7,12 @@ Learn JavaScript in 1 day
 
 ### Tools
 - Version Control (Git/GitHub)
+- Share code with other coders
+- Use the console
+- Debug (fix code errors)
+
+### How to start
+- Search for a project and do it. No excuses.
+- Ask at [Stackoverflow](https://www.stackoverflow.com)
+- Learn to ask for help
 
