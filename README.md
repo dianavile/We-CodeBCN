@@ -16,4 +16,6 @@ Learn JavaScript in 1 day
 - Ask at [Stackoverflow](https://www.stackoverflow.com)
 - Learn to ask for help
 - Start with Testing
+- Ask questions to the IT-recruiters (version control, horas extras, formacion, eventos) 
+- Great programmer knows how to code, communicate, and has its own expertise
 
