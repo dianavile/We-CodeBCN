@@ -19,5 +19,6 @@ Learn JavaScript in 1 day
 - __Ask questions__ to the IT-recruiters (version control, horas extras, formacion, eventos) 
 - Great programmer knows how to code, communicate, and has its own expertise
 - Never stop learning, keep practicing next languages
+- Be absolutely passionate about coding
 
 
