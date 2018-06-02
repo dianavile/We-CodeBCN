@@ -208,3 +208,4 @@ while(luisAge < 18) {
   - [MDN](https://developer.mozilla.org/en-US/)
   - [W3school](https://www.w3schools.com/)
   - [Place holder pics](https://placeimg.com/)
+  - [The Box Model](https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/How_to/Examine_and_edit_the_box_model#The_Box_Model_view)
