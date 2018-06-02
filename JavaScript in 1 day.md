@@ -15,11 +15,10 @@ Open web Dev (F12)
 
 [Place holder](https://placeimg.com/)
 
-
-Content: the content
-Padding: limit between content and border
-Border: the border
-Margen: difference between the border and space outside
+- Content: the content
+- Padding: limit between content and border
+- Border: the border
+- Margen: difference between the border and space outside
 
 WE/CODE
 HTML Exemplo
