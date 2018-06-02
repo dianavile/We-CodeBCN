@@ -3,7 +3,7 @@ Learn JavaScript in 1 day
 
 ## Fundaments
 1) Learn algorithm
-2) Good Practice, Clean Code
+2) Good Practice, Clean Code (see PDF)
 
 ### Tools
 - Version Control (Git/GitHub)
