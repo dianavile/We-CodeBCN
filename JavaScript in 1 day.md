@@ -22,28 +22,7 @@ Border: the border
 Margen: difference between the border and space outside
 
 WE/CODE
-https://bit.ly/2J4Iudm
-
-HTML
-<body>
-    <div>  //← Esto es una “caja”
-        <h1>Título 1</h1>
-        <h2>Título 2</h2>
-        <p> Párrafo</p>
-        <img src=”” alt=””>
-    </div>
-</body>
-
-
-CSS
-
-
-
-
-
-JS
-
-Exemplo
+HTML Exemplo
 Index.html
 ```
 <!DOCTYPE html>
